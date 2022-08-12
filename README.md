@@ -5,6 +5,7 @@ Collections of daily action notes are grouped by quarter.
 Notes of daily action:
 * Date
 * Nasdaq or S&P 500 chart. With past price black and future price light gray.
+* Headline of the media article quoted
 * Quotes from the media
 * Optional factual commentary, like plots of interest rates, hindsight observations, etc.
 
