@@ -286,8 +286,6 @@ PMI numbers during 2000-2001:
 
 ![](https://d1-invdn-com.akamaized.net/1341316895_0.gif)
 
-The July '22 PMI number is [52.2](https://tradingeconomics.com/united-states/manufacturing-pmi).
-
 
 # 2000-09-05
 
@@ -307,3 +305,59 @@ The July '22 PMI number is [52.2](https://tradingeconomics.com/united-states/man
 > While some analysts linked the day's losses to profit taking, Michael Holland, chairman of Holland & Co., said something more fundamental could explain the declines. With the Federal Reserve hiking interest rate six times since June, 1999, Holland sees the losses reflecting concerns that the central bank may have gone too far.
 
 > ""I think it's a harbinger of things to come," Holland told CNN's Street Sweep. "The outcome of what (the Fed has done) is still unknown."
+
+# 2000-09-11
+
+![](./plots/nasdaq_2000-09-11.svg)
+
+## [Nasdaq plunges; Dow off](https://money.cnn.com/2000/09/11/markets/markets_newyork/)
+### Tech stocks continue sell-off on earnings fears; oil keeps rising
+
+> NEW YORK (CNNfn) - The Nasdaq composite index tumbled more than 2 percent Monday, falling to its lowest level in nearly a month as investors wary of slowing corporate profit growth unloaded high-priced technology stocks.
+
+> Analysts explaining the losses cited a combination of selling momentum from last week coupled with fear that technology stock prices still don't reflect forecasts for a cooling economy. A fresh surge in oil prices, meanwhile, reminded Wall Street that business and consumers will pay more for heating and transportation costs in the months ahead, effectively enacting a tax on the economy.
+
+**A September to forget?**
+
+> September is historically a tough time for U.S. markets and this month is looking no different, with the Nasdaq falling four of the last six sessions.
+
+> After a strong August, last week was Wall Street's first losing week since July. It occurred after a series of companies warned that corporate earnings would not meet expectations.
+
+# 2000-09-29
+
+![](./plots/nasdaq_2000-09-29.svg)
+
+## [Wall St: A month to forget](https://money.cnn.com/2000/09/29/markets/markets_newyork/)
+### Tech stocks continue sell-off on earnings fears; oil keeps rising
+
+> NEW YORK (CNNfn) - The latest high-profile profit warning sent U.S. stocks tumbling Friday, capping a month of declines for the major indexes, which have all lost value during a year that's shaping up to be the worst in a decade.
+
+> Wall Street couldn't close the third quarter without one more major earnings blowup. It came from Apple Computer, which said it won't meet quarterly profit targets.
+
+> Stocks did what they typically do in September: fall.
+
+> The negative news comes amid some of the highest oil prices in a decade, raising costs for business and consumers. The euro, meanwhile, has plunged against the dollar, cutting into earnings of multinational companies doing business overseas.
+
+
+# 2000-10-12
+
+![](./plots/nasdaq_2000-10-12.svg)
+
+## [Dow plunges more than 3%](https://money.cnn.com/2000/10/12/markets/markets_newyork/)
+### A spike in oil prices sends investors fleeing blue chips; Nasdaq falters
+
+> NEW YORK (CNNfn) - The Dow Jones industrial average tumbled nearly 400 points Thursday, its sixth loss in as many sessions and its fifth-biggest point drop on record, after a surge in oil prices sparked fears that rising inflation could harm the economy. 
+
+> Violence escalated in the Mideast, sending oil prices as high as $36 a barrel, in the latest blow to a market that has sold off steadily since Labor Day.
+
+> Thursday's surge in oil prices to nearly 10-year highs, if it holds, could stall consumer spending and eat into corporate profitability. The gains come amid a market worried about slower earnings growth.
+
+> Still, the market showed isolated areas of strength. Chip stocks rose after two semiconductor makers posted strong earnings. Oil shares gained with the price of the commodity. And drug stocks, among the year's best-performing sectors, continued drawing buyers.
+
+**Oil gushes higher**
+
+> The surge in the commodity hit a market already obsessed with how much the slowing economy will bite into profitability. Economists explaining the economy's 10-year expansion often cite the importance of cheap oil, which kept costs down and reduced inflation. Rising crude prices could threaten this growth rate.
+
+**The rally must wait**
+
+> Two key reads on the economy come Friday when the government reports on September retail sales and producer prices. Analysts surveyed by Briefing.com see retail sales gaining 0.4 percent in the month, twice August's 0.2 percent gain. And the producer price index is forecast to have risen 0.4 percent in September, after falling 0.2 percent the previous month.
