@@ -7,16 +7,33 @@ import yfinance as yf
 plt.rcParams['lines.linewidth'] = 1
 # get nasdaq data from yahoo finance
 nasdaq = yf.download("^IXIC", start="2000-01-01", end="2003-01-01")
-nasdaq.head()
 
-# %%
-# get price up to 2001-01
 
-dates = [
-    "2000-03-28",
-    "2000-05-11",
-    "2000-05-19",
-]
+# %% clear plots directory of all old plots
+
+# get all files in data directory
+import os
+files = os.listdir("plots")
+# get all files with .svg extension
+files = [file for file in files if file.endswith(".svg")]
+# delete all files
+for file in files:
+    os.remove("plots/" + file)
+
+# %% get the dates for the plots
+
+dates = []
+with open("notes.md") as f:
+    # read the file line by line
+    for line in f:
+        # check if line matches ![](nasdaq_*.svg) pattern
+        if "![](./plots/nasdaq" in line:
+            # get the date from the line
+            date = line.split("nasdaq_")[1].split(".svg")[0]
+            # add the date to the list
+            dates.append(date)
+
+# %% generate the plots
 
 for dt in dates:
     plt.plot(
