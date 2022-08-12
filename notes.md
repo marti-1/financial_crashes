@@ -1,4 +1,5 @@
 # 2000-03-28
+
 ![](./plots/nasdaq_2000-03-28.svg)
 
 ## [Wall St. hit by Cohen](https://money.cnn.com/2000/03/28/markets/markets_newyork/)
@@ -17,6 +18,7 @@
 > The standstill comes as oil prices tripled during the last 12 months, a development analysts fear could hurt profits across many industries and spark an outbreak of inflation.
 
 # 2000-04-03
+
 ![](./plots/nasdaq_2000-04-03.svg)
 
 ## [Nasdaq sinks 350 points](https://money.cnn.com/2000/04/03/markets/markets_newyork/)
@@ -27,6 +29,7 @@
 > "We are seeing a rotation back into some of the real companies, if you will," Robert Armknecht, portfolio manager at FleetBoston Financial, told CNNfn's market coverage.
 
 # 2000-04-07
+
 ![](./plots/nasdaq_2000-04-07.svg)
 
 ## [Nasdaq posts record gain](https://money.cnn.com/2000/04/07/markets/markets_newyork/)
@@ -43,10 +46,13 @@
 
 > Wall Street focused more closely on news that the unemployment rate did not fall as expected, but held steady at 4.1 percent. Wage inflation, meanwhile, did not rise with any significance, climbing 0.4 percent.
 
+# 2000-04-10
+
+![](./plots/nasdaq_2000-04-10.svg)
+
 ## [Nasdaq plunges on sell-off](https://money.cnn.com/2000/04/10/markets/markets_newyork/)
 ### Investors lose confidence in tech stocks' value, while the Dow heads north
 
-![](./plots/nasdaq_2000-04-10.svg)
 
 > Monday's sell-off came after Merrill Lynch chief market analyst Richard McCabe advised clients to reduce exposure to tech stocks and seek opportunities in "old economy" shares such as those found in the Dow.
 
@@ -54,10 +60,13 @@
 
 > It's not unusual for influential strategists to move markets. Last month, Goldman Sachs strategist Abby Joseph Cohen reduced the technology weighting in her model portfolio, sparking a Nasdaq sell-off.
 
+# 2000-04-12
+
+![](./plots/nasdaq_2000-04-12.svg)
+
 ## [Wall St. pummeled by selling](https://money.cnn.com/2000/04/12/markets/markets_newyork/)
 ### Investors dump Dow tech stocks late in the day, following Nasdaq's lead
 
-![](./plots/nasdaq_2000-04-12.svg)
 
 **Techs continue to slide**
 
@@ -73,11 +82,14 @@
 
 > Mark Klee, manager of the John Hancock Technology Fund, agreed. "I think a lot of these stocks had gotten ahead of themselves," said Klee, who predicted the Nasdaq is near its bottom.
 
+# 2000-04-14
+
+![](./plots/nasdaq_2000-04-14.svg)
+
 
 ## [Bleak Friday on Wall Street](https://money.cnn.com/2000/04/14/markets/markets_newyork/)
 ### Unnerved investors rapidly unload stocks amid inflationary fears
 
-![](./plots/nasdaq_2000-04-14.svg)
 
 > NEW YORK (CNNfn) - U.S. stocks plummeted Friday, capping off five days of stunning losses that handed the Nasdaq composite index its worst weekly performance of all time and the Dow Jones industrial average its steepest one-session point loss in history.
 
@@ -94,10 +106,12 @@
 > Bank stocks, which rallied earlier in the week after some strong earnings reports, were among the biggest losers.
 
 
-## [Blue chips boost Wall Street](https://money.cnn.com/2000/04/17/markets/markets_newyork/)
-### Investors snap up technology bargains, lifting both Nasdaq and the Dow
+# 2000-04-17
 
 ![](./plots/nasdaq_2000-04-17.svg)
+
+## [Blue chips boost Wall Street](https://money.cnn.com/2000/04/17/markets/markets_newyork/)
+### Investors snap up technology bargains, lifting both Nasdaq and the Dow
 
 > NEW YORK (CNNfn) - U.S. stock markets soared Monday in a choppy trading session as investors jumped into the bargain bin to snap up technology stocks, cheapened by last week's hefty sell-off.
 
@@ -107,17 +121,22 @@
 
 > "We continue to believe that a sharp upward move in inflation is unlikely," she wrote in a research note. 
 
-## [Tech buyers lift Wall St.](https://money.cnn.com/2000/05/01/markets/markets_newyork/)
-### Investors regain confidence in tech stocks, boosting Nasdaq and Dow
+# 2000-05-01
 
 ![](./plots/nasdaq_2000-05-01.svg)
 
+## [Tech buyers lift Wall St.](https://money.cnn.com/2000/05/01/markets/markets_newyork/)
+### Investors regain confidence in tech stocks, boosting Nasdaq and Dow
+
+
 > NEW YORK (CNNfn) - U.S. stocks rallied as investors jumped into the buying ring Monday afternoon to snap up technology stocks - seen as a resilient sector to guard against aggressive interest rate hikes - with the beleaguered Microsoft Corp. leading the way.
+
+# 2000-05-23
+
+![](./plots/nasdaq_2000-05-23.svg)
 
 ## [Nasdaq sets low for year](https://money.cnn.com/2000/05/23/markets/markets_newyork/)
 ### Tech sell-off enters day five as interest rate concerns continue unabated
-
-![](./plots/nasdaq_2000-05-23.svg)
 
 > NEW YORK (CNNfn) - The Nasdaq composite index tumbled to its lowest close of the year Tuesday and wiped out all of its gains since early November, as fears grew that higher interest rates will hurt earnings.
 
@@ -127,10 +146,13 @@
 
 > The Nasdaq's steady losses since March 10, when the gauge hit a record high of 5,048.62, come as interest rates have jumped to their highest levels in nine years. The Federal Reserve last week tightened credit for the sixth time in 11 months, and hinted that more rate hikes lie ahead. Analysts expect difficulty for the market until the number and consequences of those hikes are known.
 
+# 2000-05-30
+
+![](./plots/nasdaq_2000-05-30.svg)
+
 ## [Nasdaq roars higher](https://money.cnn.com/2000/05/30/markets/markets_newyork/)
 ### Tech buying sends Nasdaq to record gains; Dow powered by Intel
 
-![](./plots/nasdaq_2000-05-30.svg)
 
 > In spite of the strong rally, analysts said the lack of volume showed there still may be selling in sight. "The momentum players are not back in full swing," said Peter Cardillo, research director at Westfalia Investments.
 
@@ -144,10 +166,13 @@
 
 ![](https://money.cnn.com/2000/05/30/markets/markets_newyork/fomc.gif)
 
+# 2000-06-02
+
+![](./plots/nasdaq_2000-06-02.svg)
+
 ## [Bulls trounce Wall Street](https://money.cnn.com/2000/06/02/markets/markets_newyork/)
 ### Investor optimism rekindled by jobs data; Nasdaq, Dow surge higher
 
-![](./plots/nasdaq_2000-06-02.svg)
 
 > NEW YORK (CNNfn) - Wall Street celebrated Main Street's misery Friday, after a key labor report showing slower-than-expected job growth sparked a searing rally that sent the Nasdaq composite index to its highest close in a month.
 
@@ -161,19 +186,23 @@
 
 > The Labor Department said unemployment rose to 4.1 percent in May from a 30-year low of 3.9 percent in April, while hourly wages rose only 0.1 percent, well below the 0.4 percent forecast. And there were only 231,000 new jobs created in May, which was well below Wall Street forecasts of 375,000. In fact, the additional jobs all came from government hiring and there was actually a decline in jobs in the private sector.
 
-## [Nasdaq powered by Intel](https://money.cnn.com/2000/06/19/markets/markets_newyork/)
-### Surge in chipmaker also lifts Dow despite Honeywell's plunge
+# 2000-06-19
 
 ![](./plots/nasdaq_2000-06-19.svg)
+
+## [Nasdaq powered by Intel](https://money.cnn.com/2000/06/19/markets/markets_newyork/)
+### Surge in chipmaker also lifts Dow despite Honeywell's plunge
 
 > Lehman Brothers raised its earnings forecasts for Intel, sending shares of the world's largest chipmaker and Dow Jones industrial average member up more than 8 percent.
 
 > "We're looking for any excuse to rally," said Finnerty, who linked the gains to the growing belief that the Federal Reserve won't raise the cost of borrowing when it meets next week.
 
-## [Wall St. rises, rates don't](https://money.cnn.com/2000/06/28/markets/markets_newyork/)
-### Tech buyers emerge as Fed curbs rate increase; Dow, Nasdaq lifted
+# 2000-06-28
 
 ![](./plots/nasdaq_2000-06-28.svg)
+
+## [Wall St. rises, rates don't](https://money.cnn.com/2000/06/28/markets/markets_newyork/)
+### Tech buyers emerge as Fed curbs rate increase; Dow, Nasdaq lifted
 
 > NEW YORK (CNNfn) - Technology stocks were bought in abundance Wednesday as investors took comfort from news that the Federal Reserve left interest rates unchanged for now.
 
@@ -181,10 +210,12 @@
 
 > "They were less forceful in their rhetoric and that shows a little light at the end of the tunnel," said Art Hogan, chief market analyst at Jefferies & Co. "Clearly they're at a point where what they say is more important than what they do and that's playing itself out in the equity markets."
 
-## [Nasdaq plunges 179 points](https://money.cnn.com/2000/07/28/markets/markets_newyork/)
-### Revenue concerns unnerve investors to sell techs; financials hurt the Dow
+# 2000-07-28
 
 ![](./plots/nasdaq_2000-07-28.svg)
+
+## [Nasdaq plunges 179 points](https://money.cnn.com/2000/07/28/markets/markets_newyork/)
+### Revenue concerns unnerve investors to sell techs; financials hurt the Dow
 
 > NEW YORK (CNNfn) - The Nasdaq composite index capped off one of its worst weeks Friday, plunging more than 170 points, or more than 4 percent, as investors went on a selling spree -- betting that risky technology stocks could not continue to achieve strong revenue. The spree was apparently sparked by a negative outlook from American Power Conversion Corp.
 
@@ -207,3 +238,72 @@
 > "The good news is that on the consumer side of things, spending actually declined, and the real good news is the deflator was lower than the last quarter and there was a revision from the first quarter. So when you really dissect it all, it wasn't all that bad," said Peter Cardillo, director of research at Westfalia Investments.
 
 > First-quarter gross domestic product growth was revised down to a 4.8 percent rate from the 5.5 percent initially reported.
+
+# 2000-08-03
+
+![](./plots/nasdaq_2000-08-03.svg)
+
+## [Nasdaq rises from sickbed](https://money.cnn.com/2000/08/03/markets/markets_newyork/)
+### Tech investors who sold shares in the morning buy in the afternoon
+
+> NEW YORK (CNNfn) - Technology stocks staged a dramatic comeback Thursday, with the Nasdaq composite surging nearly 240 points above its session low as bargain-hunting investors poured back into computer networking and software stocks.
+
+> The gains, which spread to other major indexes, came hours ahead of Friday's report on the job market in July. The closely-watched data could offer clues into whether the Federal Reserve raises interest rates this month.
+
+**Techs rise from the dead**
+
+> Despite these gains, S.G. Cowen's Sheinberg said the focus remains negative.
+
+> "All the news that seems to be coming out is companies telling you that things going forward aren't that great," he said.
+
+**Jobs on horizon**
+
+> The day's activity comes less than 24 hours ahead of the week's most closely watched economic indicator. Analysts Friday will be parsing the government's July employment report for clues about whether the Fed will raise borrowing costs later this month.
+
+> Evidence of an unexpectedly tight labor market, while good for Main Street, would make policy makers fret that employers will bid up wages, sparking an outbreak of inflation that could derail an economic expansion now in its record ninth year. But a slowdown in the job market might convince Fed officials that six credit tightenings since June, 1999, are beginning to bite.
+
+
+# 2000-08-31
+
+![](./plots/nasdaq_2000-08-31.svg)
+
+## [Wall St. sizzles in August](https://money.cnn.com/2000/08/31/markets/markets_newyork/)
+### Dow, Nasdaq rise as money chases recent winners ahead of jobs data
+
+> NEW YORK (CNNfn) - U.S. stocks soared Thursday, capping off a strong August on Wall Street as investors snapped up many of the month's best-performing shares.
+
+> Many analysts linked the gains, which faded somewhat by day's end, more to forward momentum than any new developments in the state of the economy or the outlook for earnings.
+
+> Still, Ralph Acampora, chief technical analyst at Prudential Securities predicts that after a tough first half, the rest of 2000 will be a good one for stocks now that the Federal Reserve appears done raising interest rates.
+
+**Data shows weakness**
+
+> **In one sign of that slowing, factory orders fell 7.5 percent in July, the largest drop on record, according to a report by the Commerce Department. Analysts surveyed by Briefing.com forecast factory orders would fall just 6.1 percent.**
+
+> Separately, the Chicago Purchasing Management Index (PMI) that measures manufacturing fell to 46.5 in August from 52 in July. The prices paid component -- a measure of inflation -- fell to 58.6 in August from 70 in July.
+
+PMI numbers during 2000-2001:
+
+![](https://d1-invdn-com.akamaized.net/1341316895_0.gif)
+
+The July '22 PMI number is [52.2](https://tradingeconomics.com/united-states/manufacturing-pmi).
+
+
+# 2000-09-05
+
+![](./plots/nasdaq_2000-09-05.svg)
+
+## [Nasdaq tumbles 2 percent](https://money.cnn.com/2000/09/05/markets/markets_newyork/)
+### Intel, WorldCom fall, leading tech index lower while retailers show strength
+
+> NEW YORK (CNNfn) - The Nasdaq composite index fell for the first time in six sessions Tuesday as investors returning from a long holiday weekend shed many of last month's best-performing technology stocks.
+
+> "A little pullback is not surprising given how strong a rally we've had," Tony Cecin, director of U.S. equity trading at U.S. Bancorp Piper Jaffray, said referring to the Nasdaq's 11 percent-plus surge in August.
+
+> The Federal Reserve, which left interest rates unchanged last month, is widely expected to hold borrowing costs steady in the months ahead. And companies don't report financial results for the July-September period until later next month.
+
+**Techs falter**
+
+> While some analysts linked the day's losses to profit taking, Michael Holland, chairman of Holland & Co., said something more fundamental could explain the declines. With the Federal Reserve hiking interest rate six times since June, 1999, Holland sees the losses reflecting concerns that the central bank may have gone too far.
+
+> ""I think it's a harbinger of things to come," Holland told CNN's Street Sweep. "The outcome of what (the Fed has done) is still unknown."
