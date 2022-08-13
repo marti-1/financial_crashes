@@ -221,6 +221,8 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 
 ![](./plots/ff_effective_rate_2000-05-30.svg)
 
+![](./plots/earnings_2000-06-01.svg)
+
 ## [Nasdaq roars higher](https://money.cnn.com/2000/05/30/markets/markets_newyork/)
 ### Tech buying sends Nasdaq to record gains; Dow powered by Intel
 

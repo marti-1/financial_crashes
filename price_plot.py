@@ -18,7 +18,8 @@ files = os.listdir("plots")
 files = [file for file in files if file.endswith(".svg")]
 # delete all files
 for file in files:
-    os.remove("plots/" + file)
+    if "nasdaq_" in file:
+        os.remove("plots/" + file)
 
 # %% get the dates for the plots
 
