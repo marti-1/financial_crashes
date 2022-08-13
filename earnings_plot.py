@@ -48,5 +48,5 @@ for midpoint in midpoints:
     plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('\'%y-%m'))
     # rotate x-axis labels
     plt.xticks(rotation=45)
-    plt.title('Earnings')
+    plt.title('S&P500 Earnings')
     plt.savefig(f"plots/earnings_{midpoint}.svg", format="svg")
