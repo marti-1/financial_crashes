@@ -119,7 +119,33 @@
 
 > Investors could gain some respite from analysts' comments that the market remains fundamentally sound. Influential market strategist Abby Joseph Cohen, chairwoman of Goldman Sachs' investment policy committee, told clients Monday that the recent stock volatility has been driven more by market factors rather than a change in fundamentals.
 
-> "We continue to believe that a sharp upward move in inflation is unlikely," she wrote in a research note. 
+> "We continue to believe that a sharp upward move in inflation is unlikely," she wrote in a research note.
+
+# 2000-04-28
+
+![](./plots/nasdaq_2000-04-28.svg)
+
+## [Tech buying fuels Nasdaq](https://money.cnn.com/2000/04/28/markets/markets_newyork/)
+### Inflationary woes prompt 'old economy' sell-off of the Dow industrials
+
+> NEW YORK (CNNfn) - Attention shifted to inflationary concerns Friday as the week's economic indicators suggested the white-hot economy is not about to burn out, prompting investors to snap up technology shares and dump interest-rate sensitive "old economy" issues.
+
+> "Higher interest rates are an impediment to companies where cost is important and that's old economy stocks," said Barry Hyman, chief market strategist at Ehrenkrantz King Nussbaum Inc. "What we are seeing is a defensive move into technology stocks."
+
+> "I think we're returning to the inflationary worries which is more painful for interest rate-sensitive (companies) and less an issue for technology," said Thomas Galvin, chief investment officer at Donaldson Lufkin & Jenrette. "It's a similar rotation that began yesterday (Thursday). People are concerned about inflation."
+
+**Fickle investors snatch tech stocks**
+
+> Analysts said a shift in sentiment was prompting investors to sell off some of the interest-rate sensitive Dow stocks and seek shelter in technology issues.
+
+> "I think we're returning to the inflationary worries which is more painful for interest rate-sensitive (companies) and less an issue for technology," said Thomas Galvin, chief investment officer at Donaldson Lufkin & Jenrette. "It's a similar rotation that began yesterday (Thursday). People are concerned about inflation."
+
+**Investors wary over interest rate hikes**
+
+> The Federal Open Market Committee will meet May 16, and expectations had been for a quarter-point increase. But recent economic data, particularly Thursday's gross domestic product and employment cost index reports, gave analysts pause to consider that a half-point rate hike may be possible.
+
+> "I think the Fed's trying to get (reaction) with talk and not action," John Dessauer, chairman of McGinn Investment Management, told CNNfn's Market Coverage.
+
 
 # 2000-05-01
 
@@ -130,6 +156,49 @@
 
 
 > NEW YORK (CNNfn) - U.S. stocks rallied as investors jumped into the buying ring Monday afternoon to snap up technology stocks - seen as a resilient sector to guard against aggressive interest rate hikes - with the beleaguered Microsoft Corp. leading the way.
+
+# 2000-05-11
+
+![](./plots/nasdaq_2000-05-11.svg)
+
+## U.S. Stock-Index Futures Rise as Report Shows April Retail Sales Fell (Bloomberg)
+
+> New York, May 11 (Bloomberg) - U.S. stocks gained after a report showed April retail sales dropped from the month before. The report eased some concerns that strong consumer spending could spur inflation and push interest rates higher.
+
+> Intel Corp. and Cisco Systems Inc., the largest companies in the Nasdaq Composite Index, rose. The report showed sales at U.S. retailers fell last month for the first time in a year and a half.
+
+> The unexpected drop in retail sales "gives a sign that the economy is starting to slow a little," said Richard Cripps, chief market strategist at Legg Mason Wood Walker in Baltimore. "The
+Fed won't have to be as aggressive."
+
+> The Federal Reserve is expected to raise short-term interest rates by as much as half a point on May 16. "A 50 basis-point rise looks factored into the market now," said Jacques-Antoine Bretteil, who helps manage $700 million at International Capital Gestion in Paris. "If the Fed raises rates more than that the market will really take a blow." Rising interest rates tend to penalize stocks that are most expensive relative to their earnings, he said.
+
+# 2000-05-19
+
+![](./plots/nasdaq_2000-05-19.svg)
+
+## U.S. Stocks Fall, Led by Intel, GE; Nasdaq Composite Loses 3.9% for Week (Bloomberg)
+
+> New York, May 19 (Bloomberg) -- U.S. stocks fell, led by Intel Corp. and General Electric Co., on expectations the Federal Reserve will keep raising interest rates this year, slowing the economy and reducing corporate revenue and profit growth. 
+"Investors have been justifying paying extraordinary prices for tech stocks because of the expectation for continued revenue growth," said Charles Crane, market strategist at Spears, Benzak, Salomon & Farrell Inc., which manages $5 billion. "Any threat to that growth" puts technology shares in trouble.
+
+> The Nasdaq fell three straight days, with technology shares leading the losses, after the Federal Reserve said Tuesday it will raise interest rates to hold inflation in check, even as it boosted rates for the sixth time since June. 
+"Tech companies themselves aren't heavy borrowers, but their customers are going to be hurt by higher interest rates" and reduce spending on technology, said Crane.
+
+> Cisco fell 1 15/16 to 53 7/16 and was the most active stock, as it has been every day this week. The No. 1 computer-networking equipment maker, which rose 50 percent in the first three months of the year, has wiped out all of that gain and is now the third most valuable company in the S&P; 500 behind General Electric Co. and Intel.
+**"I sold the last of my Cisco yesterday," said Johan Vystavel, a fund manager at HWB Capital Management, in Surrey, England. "I got out above purchase price. It's a good company, but at 100 times earnings it's just too expensive."** The shares trade for 103 times profit.
+
+> U.S. commercial banks themselves are taking a more conservative stance in extending credit to businesses by tightening loan standards, the Fed said. A survey of loan officers also indicated demand for home mortgages had cooled from three months ago.
+
+> The decline in the euro to a record low of 88.52 U.S. cents may also be hurting shares of companies that sell goods and services to Europe, traders said. The euro rallied to 89.92 U.S.
+cents in recent trading. "It's a negative influence on the stock market," said Arthur Cashin, PaineWebber Inc.'s director of floor operations at the NYSE. "U.S. goods will be more expensive in Europe."
+
+> Cisco reported a quarter of its sales were made in Europe last year while Lucent Technologies made 31 percent of its sales in 2000 outside the U.S., according to Bloomberg analytics.
+
+> Eastman Kodak Co., Procter & Gamble Co. and DuPont Co. have all attributed declines in revenue this year to a sagging euro.
+
+> **Though the Nasdaq has lost a third of its value since its March 10 record, individual investors haven't lost their appetite for stock mutual funds, according to research firm TrimTabs.com. 
+An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednesday, up from $5.2 billion the previous week, TrimTabs said.**
+
 
 # 2000-05-23
 
