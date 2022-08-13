@@ -219,6 +219,8 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 
 ![](./plots/nasdaq_2000-05-30.svg)
 
+![](./plots/ff_effective_rate_2000-05-30.svg)
+
 ## [Nasdaq roars higher](https://money.cnn.com/2000/05/30/markets/markets_newyork/)
 ### Tech buying sends Nasdaq to record gains; Dow powered by Intel
 
@@ -234,6 +236,25 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 > Analysts said investors will take notice of all economic data this week with the hope that they will signal some slowing of the surging economy, which could mean interest rate hikes are near an end. The week will be capped by the Labor Department's employment report for May.
 
 ![](https://money.cnn.com/2000/05/30/markets/markets_newyork/fomc.gif)
+
+# 2000-06-01
+
+![](./plots/nasdaq_2000-06-01.svg)
+
+## [Buyers move into techs amid signs of economic slowing; Nasdaq, Dow rally](https://money.cnn.com/2000/06/01/markets/markets_newyork/)
+
+### Buyers move into techs amid signs of economic slowing; Nasdaq, Dow rally
+
+> Investors looking for some sign that the red-hot economy could be slowing its pace were rewarded Thursday, after economic data raised hopes that interest rate hikes may be near an end, making it safe to start buying stocks.
+
+> Reports indicating a slowdown in manufacturing activity and construction spending hinted that the six Federal Reserve rate hikes since last June may be starting to work.
+
+> "We are not seeing the big slowdown but we are seeing some weakness around the edges showing the medicine is starting to take effect," said Edward Jones' Skrainka. "And I don't think it's just psychological."
+
+> But Ned Riley, chief investment strategist at State Street Global Advisors in Boston, remained cautious, telling CNN's In the Money that slowing the economy may not be enough for the Fed -- slowing the resilient stock market may be important, too.
+
+> Analysts said the technology sector led the parade of buyers with revived confidence that an economic slowdown is on the horizon and now is a good time to buy.
+
 
 # 2000-06-02
 
