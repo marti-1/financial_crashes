@@ -302,9 +302,31 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 
 > "They were less forceful in their rhetoric and that shows a little light at the end of the tunnel," said Art Hogan, chief market analyst at Jefferies & Co. "Clearly they're at a point where what they say is more important than what they do and that's playing itself out in the equity markets."
 
+# 2000-07-14
+
+![](./plots/nasdaq_2000-07-14.svg)
+
+![](./plots/earnings_2000-07-01.svg)
+
+## [U.S. stocks sizzle](https://money.cnn.com/2000/07/14/markets/markets_newyork/)
+### Tech earnings drive Nasdaq higher; J.P. Morgan gives Dow a boost
+
+> NEW YORK (CNNfn) - The Nasdaq composite index surged more than 70 points Friday, extending three straight sessions of gains and closing the week up 5 percent.
+
+> "There's no question it's earnings-driven," said Peter Cardillo, research director of Westfalia Investments. "The rally continues to move ahead but on a rotation basis. There are two things driving the market - earnings and economic data. Today's market seems more based on earnings than economic data."
+
+**Investors cheer earnings to send Nasdaq higher**
+
+> Some analysts suggested the market should not be too worried about the economy turning sour as companies, particularly in the technology sector, continue to come out with positive earnings reports.
+
+**Dow boosted by J.P. Morgan**
+
+> Energy price hikes drove up wholesale prices in line with forecasts, but the core price measure was weaker than expected, lessening inflation concerns, government reports indicated Friday. However, overall retail sales came in higher than expected.
+
 # 2000-07-28
 
 ![](./plots/nasdaq_2000-07-28.svg)
+![](./plots/earnings_2000-08-01.svg)
 
 ## [Nasdaq plunges 179 points](https://money.cnn.com/2000/07/28/markets/markets_newyork/)
 ### Revenue concerns unnerve investors to sell techs; financials hurt the Dow

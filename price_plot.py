@@ -37,6 +37,7 @@ with open("notes.md") as f:
 # %% generate the plots
 
 for dt in dates:
+    plt.figure(figsize=(5,3))
     plt.plot(
         nasdaq[nasdaq.index <= dt]["Adj Close"],
         color='k'
@@ -52,5 +53,8 @@ for dt in dates:
     # plt.set_major_formatter(mdates.DateFormatter('%y-%m'))
     # title
     plt.title("NASDAQ")
+    plt.tight_layout()
     # save plot to file
     plt.savefig(f"plots/nasdaq_{dt}.svg", format="svg")
+    # close figure
+    plt.close()

@@ -5,7 +5,7 @@ import matplotlib.dates as mdates
 
 # %%
 
-e = pd.read_csv("sp500_earnings.csv", delimiter=";")
+e = pd.read_csv("data/sp500_earnings.csv", delimiter=";")
 # replace "," in Date with "-"
 e["Date"] = e["Date"].str.replace(",", "-")
 e['Date'] = pd.to_datetime(e['Date'])
@@ -31,7 +31,9 @@ start = "2000-01-01"
 end = "2003-01-01"
 
 midpoints = [
-    "2000-06-01"
+    "2000-06-01",
+    "2000-07-01",
+    "2000-08-01"
 ]
 
 for midpoint in midpoints:
@@ -40,13 +42,25 @@ for midpoint in midpoints:
     # select ff from midpoint to end
     e_rest = e[(e.index >= midpoint) & (e.index <= end)]
 
+    plt.figure(figsize=(5,3))
     # plot ff from start to midpoint
     plt.plot(e_start['Earnings'], color='k')
     # plot ff from midpoint to end
     plt.plot(e_rest['Earnings'], color='lightgray')
     # set x-axis to date format
+    plt.gca().xaxis.set_major_locator(mdates.MonthLocator((1,4,7,10)))
     plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('\'%y-%m'))
+
     # rotate x-axis labels
     plt.xticks(rotation=45)
     plt.title('S&P500 Earnings')
+    # show grid
+    # set grid color to lightgray
+    plt.grid(color='#f0f0f0')
+    plt.grid(True)
+    # use tight layout
+    plt.tight_layout()
+    # plt.show()
+    # set figure size
+ 
     plt.savefig(f"plots/earnings_{midpoint}.svg", format="svg")
