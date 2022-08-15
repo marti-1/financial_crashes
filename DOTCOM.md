@@ -12,7 +12,7 @@
 
 > But in a quiet news period after the Federal Reserve's latest interest-rate hike and ahead of first-quarter earnings reporting season, analysts said Cohen's comments met a market looking any reasons to buy or sell.
 
-![](./plots/ff_effective_rate_2000-03-28)
+![](./plots/ff_effective_rate_2000-03-28.svg)
 
 **Waiting for OPEC**
 
@@ -106,6 +106,8 @@
 
 > In Friday's major economic indicator, consumer prices jumped 0.7 percent in March, or 0.4 percent excluding often-volatile food and energy prices, according to the Commerce Department. The overall rise was the biggest since April 1999 and exceeded Wall Street forecasts.
 
+![](./plots/cpi_2000-03-01.svg)
+
 **Strong earnings not enough to attract buyers**
 
 > Bank stocks, which rallied earlier in the week after some strong earnings reports, were among the biggest losers.
@@ -189,6 +191,8 @@ Fed won't have to be as aggressive."
 > The Nasdaq fell three straight days, with technology shares leading the losses, after the Federal Reserve said Tuesday it will raise interest rates to hold inflation in check, even as it boosted rates for the sixth time since June. 
 "Tech companies themselves aren't heavy borrowers, but their customers are going to be hurt by higher interest rates" and reduce spending on technology, said Crane.
 
+Compare this narrative to just a month ago 2000-04-28, a complete U-turn on tech stocks and interest rates. Now apparently, high interests are bad for growth stocks.
+
 > Cisco fell 1 15/16 to 53 7/16 and was the most active stock, as it has been every day this week. The No. 1 computer-networking equipment maker, which rose 50 percent in the first three months of the year, has wiped out all of that gain and is now the third most valuable company in the S&P; 500 behind General Electric Co. and Intel.
 **"I sold the last of my Cisco yesterday," said Johan Vystavel, a fund manager at HWB Capital Management, in Surrey, England. "I got out above purchase price. It's a good company, but at 100 times earnings it's just too expensive."** The shares trade for 103 times profit.
 
@@ -200,6 +204,8 @@ cents in recent trading. "It's a negative influence on the stock market," said A
 > Cisco reported a quarter of its sales were made in Europe last year while Lucent Technologies made 31 percent of its sales in 2000 outside the U.S., according to Bloomberg analytics.
 
 > Eastman Kodak Co., Procter & Gamble Co. and DuPont Co. have all attributed declines in revenue this year to a sagging euro.
+
+![](./plots/eurusd_2000-05-19.svg)
 
 > **Though the Nasdaq has lost a third of its value since its March 10 record, individual investors haven't lost their appetite for stock mutual funds, according to research firm TrimTabs.com. 
 An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednesday, up from $5.2 billion the previous week, TrimTabs said.**
@@ -216,6 +222,8 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 
 > The losses came exactly one week after the Federal Reserve raised interest rates and warned that even steeper borrowing costs may lie ahead.
 
+![](./plots/ff_effective_rate_2000-05-23.svg)
+
 **Techs keep falling**
 
 > The Nasdaq's steady losses since March 10, when the gauge hit a record high of 5,048.62, come as interest rates have jumped to their highest levels in nine years. The Federal Reserve last week tightened credit for the sixth time in 11 months, and hinted that more rate hikes lie ahead. Analysts expect difficulty for the market until the number and consequences of those hikes are known.
@@ -224,7 +232,6 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 
 ![](./plots/nasdaq_2000-05-30.svg)
 
-![](./plots/ff_effective_rate_2000-05-30.svg)
 
 ![](./plots/earnings_2000-06-01.svg)
 
@@ -248,7 +255,7 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 
 ![](./plots/nasdaq_2000-06-01.svg)
 
-## [Buyers move into techs amid signs of economic slowing; Nasdaq, Dow rally](https://money.cnn.com/2000/06/01/markets/markets_newyork/)
+## [U.S. stocks fly higher](https://money.cnn.com/2000/06/01/markets/markets_newyork/)
 
 ### Buyers move into techs amid signs of economic slowing; Nasdaq, Dow rally
 
@@ -311,14 +318,14 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 
 ![](./plots/nasdaq_2000-07-14.svg)
 
-![](./plots/earnings_2000-07-01.svg)
-
 ## [U.S. stocks sizzle](https://money.cnn.com/2000/07/14/markets/markets_newyork/)
 ### Tech earnings drive Nasdaq higher; J.P. Morgan gives Dow a boost
 
 > NEW YORK (CNNfn) - The Nasdaq composite index surged more than 70 points Friday, extending three straight sessions of gains and closing the week up 5 percent.
 
 > "There's no question it's earnings-driven," said Peter Cardillo, research director of Westfalia Investments. "The rally continues to move ahead but on a rotation basis. There are two things driving the market - earnings and economic data. Today's market seems more based on earnings than economic data."
+
+![](./plots/earnings_2000-07-01.svg)
 
 **Investors cheer earnings to send Nasdaq higher**
 
@@ -328,15 +335,18 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 
 > Energy price hikes drove up wholesale prices in line with forecasts, but the core price measure was weaker than expected, lessening inflation concerns, government reports indicated Friday. However, overall retail sales came in higher than expected.
 
+![](./plots/oil_prices_2000-07-14.svg)
+
 # 2000-07-28
 
 ![](./plots/nasdaq_2000-07-28.svg)
-![](./plots/earnings_2000-08-01.svg)
 
 ## [Nasdaq plunges 179 points](https://money.cnn.com/2000/07/28/markets/markets_newyork/)
 ### Revenue concerns unnerve investors to sell techs; financials hurt the Dow
 
 > NEW YORK (CNNfn) - The Nasdaq composite index capped off one of its worst weeks Friday, plunging more than 170 points, or more than 4 percent, as investors went on a selling spree -- betting that risky technology stocks could not continue to achieve strong revenue. The spree was apparently sparked by a negative outlook from American Power Conversion Corp.
+
+![](./plots/earnings_2000-08-01.svg)
 
 > Friday's economic data renewed concern that the Federal Reserve may not be done raising interest rates, prompting investors to dump rate-sensitive financial issues, sending the Dow Jones industrial average down nearly 1 percent.
 

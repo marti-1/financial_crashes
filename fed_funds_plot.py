@@ -16,10 +16,11 @@ end = "2003-01-01"
 
 midpoints = [
     "2000-03-28",
-    "2000-05-30"
+    "2000-05-23"
 ]
 
 for midpoint in midpoints:
+    plt.figure(figsize=(5,3))
     # select ff from start to midpoint
     ff_start = ff[(ff.index >= start) & (ff.index <= midpoint)]
     # select ff from midpoint to end

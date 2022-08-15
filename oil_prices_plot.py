@@ -19,7 +19,8 @@ start = "1998-01-01"
 end = "2003-01-01"
 
 midpoints = [
-    "2000-03-28"
+    "2000-03-28",
+    "2000-07-14"
 ]
 
 for midpoint in midpoints:

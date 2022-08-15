@@ -24,7 +24,7 @@ for file in files:
 # %% get the dates for the plots
 
 dates = []
-with open("notes.md") as f:
+with open("DOTCOM.md") as f:
     # read the file line by line
     for line in f:
         # check if line matches ![](nasdaq_*.svg) pattern
@@ -43,7 +43,7 @@ for dt in dates:
         color='k'
     )
     plt.plot(
-        nasdaq[nasdaq.index > dt]["Adj Close"],
+        nasdaq[nasdaq.index >= dt]["Adj Close"],
         color='lightgray'
     )
 
