@@ -6,12 +6,12 @@ import yfinance as yf
 # set linewidth to 1
 plt.rcParams['lines.linewidth'] = 1
 # get nasdaq data from yahoo finance
-nasdaq = yf.download("^IXIC", start="2000-01-01", end="2003-01-01")
+nasdaq = yf.download("^IXIC", start="2021-01-01")
 
 
 # %% clear plots directory of all old plots
 
-# get all files in data directory
+# # get all files in data directory
 # import os
 # files = os.listdir("plots")
 # # get all files with .svg extension
@@ -24,7 +24,7 @@ nasdaq = yf.download("^IXIC", start="2000-01-01", end="2003-01-01")
 # %% get the dates for the plots
 
 dates = []
-with open("DOTCOM.md") as f:
+with open("POSTCOVID.md") as f:
     # read the file line by line
     for line in f:
         # check if line matches ![](nasdaq_*.svg) pattern

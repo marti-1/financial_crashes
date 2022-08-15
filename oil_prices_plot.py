@@ -15,29 +15,44 @@ ff.head()
 
 # %%
 
-start = "1998-01-01"
-end = "2003-01-01"
-
-midpoints = [
-    "2000-03-28",
-    "2000-07-14"
+dates = [
+    (
+        "1998-01-01",
+        "2003-01-01",
+        [
+            "2000-03-28",
+            "2000-04-14",
+            "2000-07-14"
+        ]
+    ),
+    (
+        "2021-01-01",
+        "2023-01-01",
+        [
+            "2022-06-01"
+        ]
+    )
 ]
 
-for midpoint in midpoints:
-    plt.figure(figsize=(5,3))
-    # select ff from start to midpoint
-    ff_start = ff[(ff.index >= start) & (ff.index <= midpoint)]
-    # select ff from midpoint to end
-    ff_rest = ff[(ff.index > midpoint) & (ff.index <= end)]
 
-    # plot ff from start to midpoint
-    plt.plot(ff_start['DCOILWTICO'], color='k')
-    # plot ff from midpoint to end
-    plt.plot(ff_rest['DCOILWTICO'], color='lightgray')
-    # set x-axis to date format
-    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('\'%y-%m'))
-    # rotate x-axis labels
-    plt.xticks(rotation=45)
-    plt.title('Crude Oil Prices')
-    plt.tight_layout()
-    plt.savefig(f"plots/oil_prices_{midpoint}.svg", format="svg")
+for start, end, midpoints in dates:
+    for midpoint in midpoints:
+        plt.figure(figsize=(5,3))
+        # select ff from start to midpoint
+        ff_start = ff[(ff.index >= start) & (ff.index <= midpoint)]
+        # select ff from midpoint to end
+        ff_rest = ff[(ff.index > midpoint) & (ff.index <= end)]
+
+        # plot ff from start to midpoint
+        plt.plot(ff_start['DCOILWTICO'], color='k')
+        # plot ff from midpoint to end
+        plt.plot(ff_rest['DCOILWTICO'], color='lightgray')
+        # set x-axis to date format
+        plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('\'%y-%m'))
+        # rotate x-axis labels
+        plt.xticks(rotation=45)
+        plt.title('Crude Oil Prices')
+        plt.tight_layout()
+        plt.savefig(f"plots/oil_prices_{midpoint}.svg", format="svg")
+        # close figure
+        plt.close()

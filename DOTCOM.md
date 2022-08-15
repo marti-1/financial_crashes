@@ -107,6 +107,7 @@
 > In Friday's major economic indicator, consumer prices jumped 0.7 percent in March, or 0.4 percent excluding often-volatile food and energy prices, according to the Commerce Department. The overall rise was the biggest since April 1999 and exceeded Wall Street forecasts.
 
 ![](./plots/cpi_2000-03-01.svg)
+![](./plots/oil_prices_2000-04-14.svg)
 
 **Strong earnings not enough to attract buyers**
 
