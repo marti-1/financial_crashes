@@ -41,3 +41,15 @@
 > The last bulwark in stocks is in danger of shattering, if the mood of chief executive officers is any indication. A survey of sentiment among corporate stewards by the Conference Board showed that CEO confidence declined sharply in the second quarter of the year for the fourth straight time. Similar skepticism in the past has always coincided with a recession in profits, wrote Lisa Shalett, chief investment officer at Morgan Stanley Wealth Management.
 
 > The damage in the highly speculative crypto market took on staggering contours as the value of all assets sank below $1 trillion, down by two-thirds from the heady levels reached in November. Bitcoin and its cousins have largely tracked risk assets, but the latest leg down -- as much as 17% for the world’s largest digital token -- came with concern that the freezing of withdrawals at the Celsius lending platform might indicate systemic risk in the crypto world that could accelerate the meltdown.
+
+# 2022-07-28
+
+![](./plots/nasdaq_2022-07-27.svg)
+
+## [Economy shrank 0.9%, marking second straight contraction and stoking recession worries](https://eu.usatoday.com/story/money/2022/07/28/gdp-report-economy-shrank-0-9-q-2-raising-recession-concerns/10169390002/)
+
+> The U.S. economy has contracted for a second straight quarter, sounding the alarm over a possible recession as the nation grapples with soaring inflation and rising interest rates.
+
+> The nation’s gross domestic product, the value of all goods and services produced in the U.S., shrank at a seasonally adjusted annual rate of 0.9% in the April-June period, the Commerce Department said Thursday. That followed a 1.6% drop early this year. **Economists surveyed by Bloomberg had forecast a 0.5% rise in GDP.**
+
+> Goldman Sachs sees a 30% chance of a downturn over the next year while Wells Fargo predicts a mild recession in early 2023.
