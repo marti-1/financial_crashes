@@ -229,6 +229,9 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 
 > The Nasdaq's steady losses since March 10, when the gauge hit a record high of 5,048.62, come as interest rates have jumped to their highest levels in nine years. The Federal Reserve last week tightened credit for the sixth time in 11 months, and hinted that more rate hikes lie ahead. Analysts expect difficulty for the market until the number and consequences of those hikes are known.
 
+![](./plots/cpi_2000-05-01.svg)
+![](./plots/oil_prices_2000-05-23.svg)
+
 # 2000-05-30
 
 ![](./plots/nasdaq_2000-05-30.svg)

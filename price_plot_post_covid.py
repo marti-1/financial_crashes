@@ -24,7 +24,7 @@ nasdaq = yf.download("^IXIC", start="2021-01-01")
 # %% get the dates for the plots
 
 dates = []
-with open("POSTCOVID.md") as f:
+with open("POSTCOVID.md", encoding='utf8') as f:
     # read the file line by line
     for line in f:
         # check if line matches ![](nasdaq_*.svg) pattern
