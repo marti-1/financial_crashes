@@ -20,7 +20,7 @@
 
 > The standstill comes as oil prices tripled during the last 12 months, a development analysts fear could hurt profits across many industries and spark an outbreak of inflation.
 
-![](./plots/oil_prices_2000-03-28.svg)
+![](./plots/oil_prices_2000-04-01.svg)
 
 # 2000-04-03
 
@@ -107,7 +107,7 @@
 > In Friday's major economic indicator, consumer prices jumped 0.7 percent in March, or 0.4 percent excluding often-volatile food and energy prices, according to the Commerce Department. The overall rise was the biggest since April 1999 and exceeded Wall Street forecasts.
 
 ![](./plots/cpi_2000-03-01.svg)
-![](./plots/oil_prices_2000-04-14.svg)
+![](./plots/oil_prices_2000-03-01.svg)
 
 **Strong earnings not enough to attract buyers**
 
@@ -230,13 +230,11 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 > The Nasdaq's steady losses since March 10, when the gauge hit a record high of 5,048.62, come as interest rates have jumped to their highest levels in nine years. The Federal Reserve last week tightened credit for the sixth time in 11 months, and hinted that more rate hikes lie ahead. Analysts expect difficulty for the market until the number and consequences of those hikes are known.
 
 ![](./plots/cpi_2000-05-01.svg)
-![](./plots/oil_prices_2000-05-23.svg)
+![](./plots/oil_prices_2000-05-01.svg)
 
 # 2000-05-30
 
 ![](./plots/nasdaq_2000-05-30.svg)
-
-
 ![](./plots/earnings_2000-06-01.svg)
 
 ## [Nasdaq roars higher](https://money.cnn.com/2000/05/30/markets/markets_newyork/)
@@ -339,7 +337,7 @@ An estimated $13.1 billion flowed into U.S. stock funds in the week ended Wednes
 
 > Energy price hikes drove up wholesale prices in line with forecasts, but the core price measure was weaker than expected, lessening inflation concerns, government reports indicated Friday. However, overall retail sales came in higher than expected.
 
-![](./plots/oil_prices_2000-07-14.svg)
+![](./plots/oil_prices_2000-07-01.svg)
 
 # 2000-07-28
 

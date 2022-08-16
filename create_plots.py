@@ -98,9 +98,11 @@ dates = [
         "1998-01-01",
         "2003-01-01",
         [
+            "2000-03-01",
             "2000-04-01",
             "2000-05-01",
             "2000-06-01",
+            "2000-07-01",
             "2000-08-01"
         ]
     ),
@@ -153,6 +155,7 @@ dates = [
         "2003-01-01",
         [
             "2000-03-01",
+            "2000-04-01",
             "2000-05-01"
         ]
     ),
@@ -273,4 +276,45 @@ for midpoint in midpoints:
     # set figure size
  
     plt.savefig(f"plots/earnings_{midpoint}.svg", format="svg")
+    plt.close()
+
+# %% plot EUR/USD
+
+# %%
+
+df = pd.read_csv("data/DEXUSEU.csv")
+df['DATE'] = pd.to_datetime(df['DATE'])
+df = df[df['DEXUSEU'] != "."]
+df['DEXUSEU'] = df['DEXUSEU'].astype(float)
+df.set_index('DATE', inplace=True)
+
+start = "2000-01-01"
+end = "2003-01-01"
+
+midpoints = [
+    "2000-05-19"
+]
+
+for midpoint in midpoints:
+    plt.figure(figsize=(5,3))
+    # select df from start to midpoint
+    df_start = df[(df.index >= start) & (df.index <= midpoint)]
+    # select df from midpoint to end
+    df_rest = df[(df.index >= midpoint) & (df.index <= end)]
+
+    # plot df from midpoint to end
+    plt.plot(df_rest['DEXUSEU'], color='lightgray')
+    # plot df from start to midpoint
+    plt.plot(df_start['DEXUSEU'], color='k')
+    # set x-axis to date format
+    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('\'%y-%m'))
+    # rotate x-axis labels
+    plt.xticks(rotation=45)
+    plt.title('EUR/USD')
+    plt.tight_layout()
+
+    plt.grid(color='#f0f0f0')
+    plt.grid(True)
+
+    plt.savefig(f"plots/eurusd_{midpoint}.svg", format="svg")
     plt.close()
