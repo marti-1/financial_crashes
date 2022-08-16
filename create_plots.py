@@ -7,6 +7,8 @@ import yfinance as yf
 import datetime
 
 plt.rcParams['lines.linewidth'] = 1
+
+
 # %% REMOVE OLD PLOTS
 
 # get all files in data directory
@@ -75,6 +77,7 @@ for conf in price_conf:
             # close figure
             plt.close()
 
+            
 # %% GET OIL PRICES
 
 oil = pd.read_csv("data/DCOILWTICO.csv")
@@ -141,6 +144,7 @@ for start, end, midpoints in dates:
         # close figure
         plt.close()
 
+        
 # %% PLOT CPI
 
 df = pd.read_csv("data/CPIAUCSL.csv")
@@ -195,6 +199,7 @@ for start, end, midpoints in dates:
         # close figure
         plt.close()
 
+        
 # %% PLOT FED FUNDS
 
 ff = pd.read_csv("data/DFF.csv")
@@ -278,9 +283,8 @@ for midpoint in midpoints:
     plt.savefig(f"plots/earnings_{midpoint}.svg", format="svg")
     plt.close()
 
+    
 # %% plot EUR/USD
-
-# %%
 
 df = pd.read_csv("data/DEXUSEU.csv")
 df['DATE'] = pd.to_datetime(df['DATE'])
@@ -318,3 +322,4 @@ for midpoint in midpoints:
 
     plt.savefig(f"plots/eurusd_{midpoint}.svg", format="svg")
     plt.close()
+ 
