@@ -126,6 +126,31 @@ def plot_ff_effective_charts(m1, m2):
     axs[1].set_title('Post-Covid FF Efective Rate')
     axs[1].set_xlabel('Year')
 
+def plot_sp500_charts_aligned():
+    # download s&p 500 data
+    sp500 = yf.download('^GSPC', start='1998-01-01')
+    # filter df from 2000-01-03 to 2000-11-01
+    dotcom = sp500.loc['2000-09-01':'2003-01-01']
+    # get numpy array of closing prices
+    dotcom_r = (dotcom['Adj Close'].pct_change()+1).cumprod()
+    # replace NaN with 1
+    dotcom_r.fillna(1, inplace=True)
+
+    postcovid = sp500.loc['2022-01-01':]
+    postcovid_r = (postcovid['Adj Close'].pct_change()+1).cumprod()
+    postcovid_r.fillna(1, inplace=True)
+
+    x = np.floor(np.arange(0, dotcom_r.shape[0], 1.2))
+    x = x.astype(int)
+
+    plt.plot(dotcom_r.values[x], color='gray', label='Dot-com')
+    plt.plot(postcovid_r.values, color='tab:red', label='Post-Covid')
+
+    # title
+    plt.title('S&P 500')
+    plt.legend()
+    plt.show()
+
 def plot_nasdaq_charts_aligned():
     nasdaq = yf.download('^IXIC', start='1998-01-01')
     # filter df from 2000-01-03 to 2000-11-01
@@ -158,4 +183,39 @@ def plot_nasdaq_charts_aligned():
     ax2.yaxis.label.set_color('tab:red')
     # title
     plt.title('NASDAQ')
+    plt.show()
+
+def plot_speed_of_ff_rate_increase():
+    df = pd.read_csv('./data/fed_funds_rate_history.csv')
+    df['date'] = pd.to_datetime(df['date'])
+    # group df by "period" and loop every group
+    for period in df.period.unique():
+        # select data for current period
+        df_period = df[df.period == period].copy()
+        # plot data for current period
+        # sort by date
+        df_period.sort_values(by='date', inplace=True)
+        # get number of days between dates
+        df_period['days'] = df_period.date.diff().dt.days
+        # fill Nan with 0
+        df_period['days'] = df_period['days'].fillna(0)
+        # get cumulative sum of days
+        df_period['cum_days'] = df_period['days'].cumsum()
+        # get cumulative sum of change_bps
+        df_period['rate'] = df_period['change_bps'].cumsum()
+
+        color = 'lightgray'
+        if period == '2022':
+            color='tab:red'
+        if period == 'Dot-com':
+            color = 'k'
+        plt.plot(df_period.cum_days, df_period.rate, label=period, color=color)
+
+    # set title
+    plt.title('Speed of Fed Funds Rate Increase')
+    # set x-axis label
+    plt.xlabel('Days')
+    # set y-axis label
+    plt.ylabel('Rate (bps)')
+    plt.legend()
     plt.show()
