@@ -492,3 +492,171 @@ PMI numbers during 2000-2001:
 **The rally must wait**
 
 > Two key reads on the economy come Friday when the government reports on September retail sales and producer prices. Analysts surveyed by Briefing.com see retail sales gaining 0.4 percent in the month, twice August's 0.2 percent gain. And the producer price index is forecast to have risen 0.4 percent in September, after falling 0.2 percent the previous month.
+
+# 2000-10-20
+
+![](./plots/nasdaq_2000-10-20.svg)
+
+## [A weekly win for Nasdaq](https://money.cnn.com/2000/10/20/markets/markets_newyork/)
+### Bargain-hunting sends tech index to first weekly gain in six weeks; Dow rallies
+
+> "We've held out that, as you move through the third-quarter earnings, the companies that report will show strong growth," said Kevin Caron, associate strategist with Gruntal & Co. "Stock prices have been so compressed that it give investors reason to step in and pick up stocks at depressed prices."
+
+> "The volatility measures are falling with this snapback and there is a short-term shift in psychology -- there's a lot of bargain-hunting going on out there," said Terence Gabriel, stock market strategist at IDEAglobal.com.
+
+> Jim Waggoner, market and technology strategist at Sands Brothers & Co., told CNNfn's In the Money that the Nasdaq rally may be the definitive sign of a change in investor psychology.
+
+> Treasury securities rose. The dollar rose against both the euro and the yen.
+
+TBA: add JPY/USD EUR/USD charts
+
+# 2000-11-30
+
+![](./plots/nasdaq_2000-11-30.svg)
+
+## [A November to forget](https://money.cnn.com/2000/11/30/markets/markets_newyork/)
+### Warnings spark heavy tech sell-off, sending U.S. stocks plunging
+
+> NEW YORK (CNNfn) - U.S. stock markets suffered triple-digit losses Thursday after revenue warnings from two key companies and weak economic data sparked a massive sell-off in technology stocks that sent the Nasdaq composite index to its lowest level in 15 months.
+
+> "People that are overexposed in tech should rethink the thesis that many seem to hold that since stocks are down (significantly), they are going to shoot to the sky," said Bill Meehan, chief market analyst at Cantor Fitzgerald. "Last year was an anomaly."
+
+**Bears running rampant**
+
+> Investors seemed to buy Meehan's point of view more than that of
+
+> influential Goldman Sachs strategist Abby Joseph Cohen. Cohen, one of Wall Street's best known bulls, reiterated her 12-month forecast for the S&P at 1,650.
+
+> Analysts say there are a bunch of key factors that have the hurt the markets over the past few months:
+
+* Earnings and the economy: Worries and warnings that tech companies will not sustain a stellar pace of revenue growth in the wake of a slowing U.S. economy.
+* Interest Rates: The Fed has raised interest rates six times over the last year and a half but has held the line in recent months amid signs of a slowdown. **With evidence mounting that the rate hikes have done their job, many market watchers are now hoping the Fed will either cut rates or at least shift its stance toward a more neutral position.** "I think what a lot of people would like to see out of that December (19 Fed) meeting is, is a change in the bias," Linda Jay, NYSE floor trader with RPM Specialists, told CNNfn's Market Call.
+* Election Impasse: "What the election does is scare people and what people do when they're scared is stop buying," Jon Burnham, chairman and CEO with Burnham Securities, told CNNfn's market coverage.
+
+**What goes down must come up**
+
+> "I think you are near (capitulation) at the moment and you are getting close to the bottom," Richard Cripps, chief market strategist with Legg Mason Wood Walker, told CNNfn's In the Money. "Technology stocks are driven on the expectation and we're in a period now where expectations are being lowered. What you'll have happen is stocks will react to the fact that expectations are too low."
+
+> "If you have any kind of cut or a neutral bias, the markets will move higher," Phil Dow, stock market strategist with Dain Rauscher Wessels, told CNNfn's market coverage.
+
+**Economy still cooling**
+
+> The Commerce Department reported that consumer spending edged up 0.2 percent in October, in line with forecasts, while Americans' incomes came in weaker than expected, falling 0.2 percent.
+
+> The savings rate hit another record low of negative 0.8 percent. Separately, new jobless claims jumped to 358,000 last week, the highest in more than two years.
+
+TBA: add jobless claims chart
+
+> Investors will be keenly waiting for the November manufacturing report from the National Association of Purchasing Management index, due at 10 a.m. ET Friday. Briefing.com estimates the number will edge higher to 48.9 percent from the prior 48.3 percent. A figure above 50 points to growth in manufacturing, while one below that indicates contraction.
+
+
+# 2000-12-11
+
+![](./plots/nasdaq_2000-12-11.svg)
+
+## [Nasdaq steps above 3,000](https://money.cnn.com/2000/12/11/markets/markets_newyork/)
+### Semis lead tech rally as investors seek bargains; financials boost the Dow
+
+> NEW YORK (CNNfn) - The Nasdaq composite index rallied for the second straight session Monday, soaring above 3,000 for the first time in three weeks, as investors bet that most negative news about revenue growth has already been priced into these stocks.
+
+> "If you really look at the action itself, most people in the market believe the worst is over, at least on a short-term basis," said Charles Payne, head analyst at Wall Street Strategies. "There's renewed hope that the presidential election is going to come to a conclusion and everyone is hoping the Fed is going to move to a neutral stance as a prelude to a series of decreasing the interest rates."
+
+> "It has had a psychological effect so if we do get this thing settled, it will be a positive for the market," Edward Keon, director of quantitative research at Prudential Securities, told CNNfn's In the Money.
+
+> Market breadth was positive and volume was strong with the Nasdaq seeing its seventh strongest day. Analysts said one of the contributing factors was that a lot of money being held by fund managers was finally entering the market.
+
+**Tech surge led by semis**
+
+> "What has happened over the past several months is valuations have come down a lot to where we think stocks are pretty reasonably valued here," said Prudential's Keon.
+
+> "In the case of the tech sector, I think they've been so beaten up that I don't think there's much more negative news that can hurt it," Linda Jay, NYSE floor specialist with RPM Specialists, told CNNfn's Market Call.
+
+TBA: add interest rates 
+
+# 2000-12-14
+
+![](./plots/nasdaq_2000-12-14.svg)
+
+## [Wall St. takes a beating](https://money.cnn.com/2000/12/14/markets/markets_newyork/)
+### Renewed concern about tech revenue hurts Nasdaq; J.P. Morgan bruises Dow
+
+> NEW YORK (CNNfn) - Once again, worries and warnings about corporate revenue growth sent U.S. stocks reeling Thursday, led by financial and technology stocks.
+
+> The beleaguered tech sector, hurt by a recent spate of results warnings, continued to feel selling pressure, sending the Nasdaq composite index sharply lower for its third straight session -- a sign that many of the tech leaders are still seen as carrying too high a price tag in a slowing economy.
+
+> The day's economic data appeared to have little impact on the markets. The November Producer Price Index, a measure of the price of goods at the wholesale level, came in line with expectations -- another sign that the Federal Reserve may temper its stance on inflation at its next monetary policy-making meeting on Dec. 19.
+
+**Results warnings are just beginning**
+
+> With the floodgates opening to corporate warnings, the day's action on the Dow was dictated by an announcement from merging financial services companies, Chase Manhattan (CMB: Research, Estimates) and indicator component J.P. Morgan (JPM: Research, Estimates). They jointly warned that fourth-quarter profit would be lower than analysts' forecasts and around 5,000 jobs would be cut.
+
+> "All the bad news is not out yet, and I don't know if we're going to have another round of estimate reductions because the economy seems to be falling away far faster than any of us would expect," Vince Farrell, chief investment officer at Spears Benzak Salomon & Farrell, told CNNfn's Ahead of the Curve.
+
+> "This market has got problems and it's got earnings problems and it has not discounted yet," said Weatherly's Hyman. "You have to expect to be bombarded every day by more earnings warnings in technology."
+
+> Robert Harrington, head of listed equity trading at UBS Warburg, told CNNfn's market coverage said the sell-off has created a tremendous buying opportunity
+
+**Eyes turn to economy**
+
+> "Inflation is not the problem; growth is," said Weatherly's Hyman.
+
+> One sign that the economy may not be as weak as some fear: The number of Americans filing new claims for unemployment benefits for the week ended Dec. 9 was 320,000, down from a revised 352,000 for the week before, the U.S. Labor Department reported Thursday. Economists polled by Briefing.com had forecast claims of 355,000 for the period.
+
+> Before the market opens Friday, the closely watched consumer price index (CPI) for November will be reported. Expectations are for the index to remain unchanged at 0.2 percent.
+
+TBA: add inflation chart
+
+
+# 2000-12-19
+
+![](./plots/nasdaq_2000-12-19.svg)
+
+## [Nasdaq hits low for year](https://money.cnn.com/2000/12/19/markets/markets_newyork/)
+### Nasdaq falters like it's 1999, hitting worst levels in 16 months
+
+> NEW YORK (CNNfn) - The Nasdaq composite index tumbled to its lowest levels in 16 months Tuesday after the Federal Reserve delayed any interest rate cut until next year.
+
+> Saying it was concerned about the slowing economy, the Fed declined to lower borrowing costs. The decision preserves some of the highest rates in a decade rates partially responsible for handing the Nasdaq what could be its worst year on record.
+
+> "The market needs to have interest rates cut," said Lewis Borsellino, CEO of TeachTrade.com, told CNNfn's market coverage. "I think the Fed has overdone it."
+
+> In the span of nine months, [Nasdaq] that was once the proxy for the bull market has lost 50 percent of its value.
+
+**Fed sticks to plan**
+
+> The Fed's policy-making arm, the Federal Open Market Committee, left the central bank's target for overnight loans between banks at 6.5 percent.
+
+> At the same time, the Fed's statement acknowledged that the cooling U.S. economy has hurt corporate profits, consumer confidence and even the stock market.
+
+> "The drag on demand and profits from rising energy costs, as well as eroding consumer confidence, reports of substantial shortfalls in sales and earnings, and stress in some segments of the financial markets suggest that economic growth may be slowing further," the central bank said.
+
+# 2001-01-23
+
+![](./plots/nasdaq_2001-01-23.svg)
+
+## [Nasdaq surges 3%](https://money.cnn.com/2001/01/23/markets/markets_newyork/)
+### Money moves into technology and financial issues on economic optimism
+
+> NEW YORK (CNNfn) - A technology stock rally sent the Nasdaq composite index to its highest levels in six weeks Tuesday as forward-looking investors bet the economy will improve this year.
+
+**4Q profits flex muscle**
+
+> "The way the market's acting tells me there's a lot of pent-up buying out there," Charles Payne, head analyst at WSTREET.com, told CNNfn's Market Call.
+
+> Now, investors appear more optimistic on companies' 2001 outlooks. And the Federal Reserve is a big reason why. The central bank meets next week, when some economists predict a large, half-percentage point rate cut, following an identically large reduction Jan. 3.
+
+> Despite the day's technology gains, Chris Grisanti, director of research at Spears Benzak Salomon & Farrell, says the sector's still-high valuations make it vulnerable.
+
+> "We are still not cheap enough yet," Grisanti told CNN's Street Sweep, referring to tech stocks. "These excess have not worked themselves out yet."
+
+# 2001-02-02
+
+![](./plots/nasdaq_2001-02-02.svg)
+
+## [ Nasdaq dives 4 percent](https://money.cnn.com/2001/02/02/markets/markets_newyork/)
+### For stock investors, the job market may not be weak enough
+
+> NEW YORK (CNNfn) - The Nasdaq composite index tumbled to its first losing week in a month Friday after the latest economic figures dashed hopes for an immediate interest rate cut.
+
+> The nation's job market continued to weaken in January, the government said. But the figures, according to economists, weren't weak enough to force the Federal Reserve to lower borrowing costs before late March, disappointing investors frustrated by slumping corporate profits
+
