@@ -489,6 +489,8 @@ PMI numbers during 2000-2001:
 
 > The surge in the commodity hit a market already obsessed with how much the slowing economy will bite into profitability. Economists explaining the economy's 10-year expansion often cite the importance of cheap oil, which kept costs down and reduced inflation. Rising crude prices could threaten this growth rate.
 
+![](./plots/oil_prices_2000-10-12.svg)
+
 **The rally must wait**
 
 > Two key reads on the economy come Friday when the government reports on September retail sales and producer prices. Analysts surveyed by Briefing.com see retail sales gaining 0.4 percent in the month, twice August's 0.2 percent gain. And the producer price index is forecast to have risen 0.4 percent in September, after falling 0.2 percent the previous month.
@@ -509,6 +511,111 @@ PMI numbers during 2000-2001:
 > Treasury securities rose. The dollar rose against both the euro and the yen.
 
 TBA: add JPY/USD EUR/USD charts
+
+# 2000-10-31
+
+![](./plots/nasdaq_2000-10-31.svg)
+
+## [Techs drive Nasdaq up 5%](https://money.cnn.com/2000/10/31/markets/markets_newyork/)
+### Money poured into battered tech sector; Dow ends month on high note
+
+> NEW YORK (CNNfn) - The Nasdaq composite index bolted nearly 180 points higher Tuesday as investors snapped up beaten-down tech issues, betting that bargains were to be found, and that the worst is over for the sector.
+
+> [Peter Cardillo, director of research at Westfalia Investment] "I think it's not a trick because I think the worst is over and the market is setting itself up for a nice rally."
+
+> "Whether the catalyst was the cessation of tax selling or just a rally from a truly depressed area, the Nasdaq is attracting some bargain hunting," said Ned Riley, chief investment strategist at State Street Global Advisors. "I would suggest stocks were over discounting shorter-term problems that have already been announced."
+
+> Treasurys were mixed. The dollar fell against the euro but was little changed versus the yen.
+
+**Corporate news drives Dow's rise**
+
+> While money was moving back into technology, investors were still betting that select "old economy" issues would provide safe havens for their money.
+
+**Eyes on the election**
+
+> Investors were also considering the national presidential election, which takes place in exactly one week. 
+
+> And Westfalia's Cardillo said the markets were poised to rally once the election was out of the way. "After election day, the market is going to assess the political and economic outlook resulting from the election and that should set the stage for a nice year-end rally," he said.
+
+> Among the day's economic indicators, new home sales surged 9.2 percent in September to an annual rate of 946,000, the government said. That's well above the 900,000 rate expected by analysts surveyed by Briefing.com and August's revised 866,000 level.
+
+> Separately, the Consumer Confidence Index fell to 135.2 in October, the Conference Board said. The figures was well below forecasts of 140.0 and last month's 142.5 level.
+
+# 2000-11-01
+
+## [Wall St. slump shrugged off](https://money.cnn.com/2000/11/01/markets/markets_newyork/)
+
+### WorldCom pressures Nasdaq lower; Dow dragged down by financials, drugs
+
+> NEW YORK (CNNfn) - U.S. stocks entered November on a sour note Wednesday, showing signs of weakness, just one session after triple-digit gains, led by selling in the financial and telecom sectors.
+
+**Economy and election eyed**
+
+> After six interest rate hikes since June 1999, most of the incoming economic data have been pointing to a slowing economy, helping calm skittish investors.
+
+> In the day's economic news, the National Association of Purchasing Management said its index of manufacturing activity fell for a third month in October. The NAPM index slid to 48.3, below forecasts of 49.5 and September's 49.9.
+
+> "Overall there's nothing here that is going to get investors too upset," said Michael Lyons, senior trader with Morgan Stanley Dean Witter. "There's money going into the market and they're taking advantage of any weakness at this point."
+
+# 2000-11-02
+
+## [Intel drives Nasdaq higher](https://money.cnn.com/2000/11/02/markets/markets_newyork/)
+
+### Positive guidance cheered by investors; Dow industrials fail to follow suit
+
+> NEW YORK (CNNfn) - Positive guidance from leading chip maker Intel sent the Nasdaq composite index soaring nearly 100 points Thursday, as investors regained confidence in the tech sector.
+
+> **A good portion of the money pouring back into the tech sector also came from mutual fund managers, who had sold tech stocks to offset capital gains before closing their books at the end of October.**
+
+> "It (economic data) seems like a yo-yo one thing says the economy is slowing and one thing says the economy is on track, one helps inflation fears and one helps earnings," said Peter Coolidge, senior trader with Brean Murray & Co. "We're still in the midst of a jittery market but it's a very fast moving market with a lot of volatility."
+
+**Upbeat Intel powers tech buying**
+
+> "Intel has signaled that things are on track and that has calmed a lot of fears. In this tough environment, that's enough for the tech market to take a cue from and rally," said Brean Murray's Coolidge.
+
+# 2000-11-08
+
+![](./plots/nasdaq_2000-11-08.svg)
+
+## [Nasdaq takes a dive](https://money.cnn.com/2000/11/08/markets/markets_newyork/)
+
+### Stocks fall, led by tech, as Wall Street turns to uncertainty in Washington
+
+> NEW YORK (CNNfn) - Technology stocks tumbled Wednesday, sending the Nasdaq composite index lower for a third session, as Wall Street awaited word on the next U.S. president a day after polls closed.
+
+> "I think the market is scared by uncertainty and that's what this election is giving us," Brian Belski, market analyst at U.S Bancorp Piper Jaffray, told CNNfn's market coverage. "And the most uncertain sector fundamentally is technology.
+
+# 2000-11-09
+
+## [Wall St.: White House woes](https://money.cnn.com/2000/11/09/markets/markets_newyork/)
+
+### Stocks tumble and recover as presidential contest ebbs and flows
+
+**Shopping is dropping**
+
+> Separately, the number of Americans filing new claims for unemployment benefits rose to a nearly 22-month high of 344,000 for the week ended Nov. 4, the Labor Department said, a sign the tight labor market may be loosening.
+
+> The nation's unemployment rate remained at a 30-year low of 3.9 percent in October. But that could tick higher if Thursday's claims numbers become a trend.
+
+TBA: add claims for umeployment benefits
+
+
+# 2000-11-15
+
+![](./plots/nasdaq_2000-11-15.svg)
+
+## [Wall St. recovers after Fed](https://money.cnn.com/2000/11/15/markets/markets_newyork/)
+
+### No rate change, inflationary bias prompt selling but markets hold gains
+
+> NEW YORK (CNNfn) - U.S. stocks rose for the second straight session Wednesday, but ended off earlier highs after the Federal Reserve left interest rates and its inflationary bias unchanged, prompting investors, hoping for a softer tone, to take some cash off the table.
+
+**No rate change from Fed**
+
+> The Federal Open Market Committee, the Fed's monetary policy-making body, left rates unchanged amid continuing signs of a slowing economy. One of those signs came Tuesday, when the government reported only a slight gain in retail sales for October.
+
+> "With the economy slowing, I expect a pronounced deceleration in earnings over the next couple of quarters," said Independence Investments Forelli.
+
 
 # 2000-11-30
 
@@ -653,7 +760,7 @@ TBA: add inflation chart
 
 ![](./plots/nasdaq_2001-02-02.svg)
 
-## [ Nasdaq dives 4 percent](https://money.cnn.com/2001/02/02/markets/markets_newyork/)
+## [Nasdaq dives 4 percent](https://money.cnn.com/2001/02/02/markets/markets_newyork/)
 ### For stock investors, the job market may not be weak enough
 
 > NEW YORK (CNNfn) - The Nasdaq composite index tumbled to its first losing week in a month Friday after the latest economic figures dashed hopes for an immediate interest rate cut.

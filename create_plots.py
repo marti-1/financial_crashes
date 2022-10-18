@@ -52,7 +52,7 @@ for conf in price_conf:
                 date = line.split(conf['prefix'])[1].split(".svg")[0]
                 # add the date to the list
                 dates.append(date)
-
+        
         for dt in dates:
             plt.figure(figsize=(5,3))
 
@@ -106,7 +106,8 @@ dates = [
             "2000-05-01",
             "2000-06-01",
             "2000-07-01",
-            "2000-08-01"
+            "2000-08-01",
+            "2000-10-12"
         ]
     ),
     (
