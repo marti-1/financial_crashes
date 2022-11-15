@@ -77,6 +77,47 @@ for conf in price_conf:
             # close figure
             plt.close()
 
+
+# %% GET DXY PLOTS
+
+# load DXY data
+dxy = yf.download("DX-Y.NYB", start="1980-01-01")
+# set dxy index type to date
+dxy.index = dxy.index.date
+dates = [
+    '2000-10-20',
+    '2000-10-31',
+    '2001-01-02'
+]
+
+for dt in dates:
+    # make date from string
+    dt = datetime.datetime.strptime(dt, '%Y-%m-%d').date()
+    dt_start = dt - datetime.timedelta(days=365)
+    dt_end = dt + datetime.timedelta(days=365)
+    # get dxy data from dt - 1 year to dt + 1 year
+    dxy_dt = dxy[(dxy.index >= dt_start) & (dxy.index <= dt_end)]
+    # plot dxy
+    plt.figure(figsize=(5,3))
+    plt.plot(
+        dxy_dt["Close"],
+        color='lightgray'
+    )
+    plt.plot(
+        dxy_dt[dxy_dt.index <= dt]["Close"],
+        color='k'
+    )
+    plt.xticks(rotation=45)
+    # set x-axis to date format
+    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('\'%y-%m'))
+    # title
+    plt.title("DXY")
+    plt.tight_layout()
+    # save plot to file
+    plt.savefig(f"plots/dxy_{dt}.svg", format="svg")
+    # close figure
+    plt.close()
+
             
 # %% GET OIL PRICES
 
@@ -212,7 +253,8 @@ end = "2003-01-01"
 
 midpoints = [
     "2000-03-28",
-    "2000-05-23"
+    "2000-05-23",
+    "2001-01-03"
 ]
 
 for midpoint in midpoints:

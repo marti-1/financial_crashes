@@ -510,7 +510,7 @@ PMI numbers during 2000-2001:
 
 > Treasury securities rose. The dollar rose against both the euro and the yen.
 
-TBA: add JPY/USD EUR/USD charts
+![](./plots/dxy_2000-10-20.svg)
 
 # 2000-10-31
 
@@ -540,6 +540,8 @@ TBA: add JPY/USD EUR/USD charts
 > Among the day's economic indicators, new home sales surged 9.2 percent in September to an annual rate of 946,000, the government said. That's well above the 900,000 rate expected by analysts surveyed by Briefing.com and August's revised 866,000 level.
 
 > Separately, the Consumer Confidence Index fell to 135.2 in October, the Conference Board said. The figures was well below forecasts of 140.0 and last month's 142.5 level.
+
+![](./plots/dxy_2000-10-31.svg)
 
 # 2000-11-01
 
@@ -737,6 +739,41 @@ TBA: add inflation chart
 
 > "The drag on demand and profits from rising energy costs, as well as eroding consumer confidence, reports of substantial shortfalls in sales and earnings, and stress in some segments of the financial markets suggest that economic growth may be slowing further," the central bank said.
 
+# 2001-01-02
+
+![](./plots/nasdaq_2001-01-02.svg)
+
+## [Nasdaq nears 2-year low](https://money.cnn.com/2001/01/02/markets/markets_newyork/)
+
+### As 2001 begins, Wall Street looks back, returning to its losing ways
+
+> NEW YORK (CNNfn) - A new year on Wall Street brought an old problem Tuesday as profit worries caused already-battered technology stocks to plunge further, sending the Nasdaq composite index to a 22-month low.
+
+**What market bounce?**
+
+> In the latest sign that the economy's best days may be behind it, the National Association of Purchasing Management said its index of manufacturing activity fell sharply in December to 43.7 percent. That's well below the 47.1 percent figure expected by economists surveyed by Briefing.com and the 47.7 percent reported in November.
+
+![](./images/NAPM.jpg)
+
+![](./plots/dxy_2001-01-02.svg)
+
+# 2001-01-03
+
+![](./plots/nasdaq_2001-01-03.svg)
+
+## Nasdaq soars record 14%
+
+### Stocks selling turns to buying as central bank lowers borrowing costs
+
+> NEW YORK (CNNfn) - A surprise interest rate cut by the Federal Reserve sent U.S. stocks soaring Wednesday on hopes that lower borrowing costs can save the economy from a profit-sapping slowdown.
+
+![](./plots/ff_effective_rate_2001-01-03.svg)
+
+> In its statement, the Fed expressed concern the economy is cooling too quickly.
+
+> "These actions were taken in light of further weakening of sales and production, and in the context of lower consumer confidence," the Fed said.
+
+
 # 2001-01-23
 
 ![](./plots/nasdaq_2001-01-23.svg)
@@ -745,6 +782,10 @@ TBA: add inflation chart
 ### Money moves into technology and financial issues on economic optimism
 
 > NEW YORK (CNNfn) - A technology stock rally sent the Nasdaq composite index to its highest levels in six weeks Tuesday as forward-looking investors bet the economy will improve this year.
+
+> Fueling that hangover, the nation's manufacturing sector showed surprising weakness last month, a trade group reported, in the latest sign that a record economic expansion has lost steam.
+
+
 
 **4Q profits flex muscle**
 
