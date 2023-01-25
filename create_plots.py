@@ -36,18 +36,41 @@ price_conf = [
         'doc': 'POSTCOVID.md',
         'prefix': 'nasdaq_',
         'title': 'NASDAQ'       
+    },
+    {
+        'ticker': '^GSPC',
+        'start': '2007-01-01',
+        'end': '2010-01-01',
+        'doc': 'GFC.md',
+        'prefix': 'sp500_',
+        'title': 'S&P 500'
+    },
+    {
+        'ticker': '^TNX',
+        'start': '2007-01-01',
+        'end': '2010-01-01',
+        'doc': 'GFC.md',
+        'prefix': 'tnx_',
+        'title': '10Y Treasury Yield',
+        'cached': True
     }
 ]
 
 for conf in price_conf:
     today = datetime.date.today().strftime("%Y-%m-%d")
-    df = yf.download(conf['ticker'], start=conf['start'], end=conf.get("end",today))
+    if conf.get('cached', False) == True:
+        df = pd.read_csv(f"data/{conf['ticker']}.csv", index_col=0)
+        df.index = pd.to_datetime(df.index)
+        # slice data from start to end
+        df = df[(df.index >= conf['start']) & (df.index <= conf.get("end",today))]
+    else:
+        df = yf.download(conf['ticker'], start=conf['start'], end=conf.get("end",today))
     dates = []
     with open(conf['doc'], encoding='utf8') as f:
         # read the file line by line
         for line in f:
             # check if line matches ![](nasdaq_*.svg) pattern
-            if "![](./plots/nasdaq" in line:
+            if f"![](./plots/{conf['prefix']}" in line:
                 # get the date from the line
                 date = line.split(conf['prefix'])[1].split(".svg")[0]
                 # add the date to the list
