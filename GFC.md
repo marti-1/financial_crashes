@@ -71,7 +71,7 @@ TODO: add unemployment stats
 
 > In the bond market, Treasury prices rallied, lowering the yield on the benchmark 10-year note to 3.62% from 3.70% late Wednesday. 
 
-![](./plots/tnx_2008-09-04.svg)
+![](./plots/inverse_10y_yield_2008-09-04.svg)
 
 # 2008-09-16
 
@@ -121,6 +121,7 @@ TODO: add unemployment stats
 
 ![](./plots/sp500_2008-09-19.svg)
 ![](./plots/gold_2008-09-19.svg)
+![](./plots/dxy_2008-09-19.svg)
 
 
 ## [Stocks surge as Feds act](https://money.cnn.com/2008/09/19/markets/markets_newyork2/index.htm)
@@ -166,7 +167,7 @@ TODO: add unemployment stats
 
 > Treasury prices have been rallying recently and yields tumbling as nervous stock market investors have looked for safer areas to move their cash. 
 
-![](./plots/tnx_2008-09-29.svg)
+![](./plots/inverse_10y_yield_2008-09-29.svg)
 
 # 2008-09-30
 
@@ -199,6 +200,8 @@ TODO: add unemployment stats
 
 ![](./plots/sp500_2008-10-09.svg)
 ![](./plots/gold_2008-10-09.svg)
+![](./plots/dxy_2008-10-09.svg)
+![](./plots/inverse_10y_yield_2008-10-09.svg)
 
 ## [Dow tumbles 7%](https://money.cnn.com/2008/10/09/markets/markets_newyork/index.htm)
 ### Dow falls below 8,600 for first time since 2003 - on the 1-year anniversary of its all-time high.
@@ -214,3 +217,31 @@ TODO: add unemployment stats
 > One year ago today, the S&P 500 hit an all-time high of 1565.15. As of Thursday's close, it was down 41.9%.
 
 > In an effort to get money moving again, the government has taken a number of dramatic steps, including announcing an emergency interest-rate cut Wednesday, coordinated with banks around the world.
+
+
+# 2008-10-10
+
+![](./plots/gold_2008-10-10.svg)
+![](./plots/dxy_2008-10-10.svg)
+
+## [Vertigo on Wall Street](https://money.cnn.com/2008/10/10/markets/markets_newyork/index.htm)
+### Volatile Dow plunges as much as 697 points, rises as much as 322, as panicky investors try to find their footing.
+
+> NEW YORK� (CNNMoney.com) -- Stocks ended with slim declines Friday, as investors fought back from a decline of as much as 697 points on the Dow amid the global market meltdown.
+
+> Credit markets remained tight, although short-term lending showed some improvement from recent days. Treasury prices fell, raising the corresponding yields. The dollar gained versus the yen and fell against the euro. Oil, gas and gold prices fell.
+
+> On Friday, finance ministers from the Group of Seven (G-7) nations said that exceptional steps are needed to ease the global financial crisis and get money flowing again.
+
+> "The magnitude of what's going on is unprecedented and people are frightened," said Robert Philips, senior portfolio strategist at BLB&B Advisors. 
+
+> "Fear is feeding upon itself and nothing the officials have done to this point seems to stem the tide," said Ryan Atkinson, market analyst at Balestra Capital.
+
+> **Looking for a bottom**: Stocks have been in a bear market for most of the year, but the selling began accelerating in September following a series of bank failures and mergers.
+
+> And investors across the board are pulling money out of equities, with $43.3 billion pulled out of stock mutual funds during the week ended Oct. 8, according to TrimTabs Research.
+
+> "To some extent, we are seeing a retail investor capitulation," said Kelli Hill, portfolio manager at Ashfield Capital Partners. "And when everyone is getting out, that suggests we're getting closer to finding a bottom," she said.
+
+
+> **Other markets**: Oil prices plunged to a 13-month low Friday on bets that the slowing global economy will drag down oil demand.

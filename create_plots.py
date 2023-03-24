@@ -6,6 +6,7 @@ import matplotlib.dates as mdates
 import yfinance as yf
 import datetime
 import utils
+import sys
 
 plt.rcParams['lines.linewidth'] = 1
 
@@ -19,6 +20,47 @@ files = [file for file in files if file.endswith(".svg")]
 # delete all files
 for file in files:
     os.remove("plots/" + file)
+
+
+#
+# REWRITE
+#
+
+docs = [
+    'GFC.md'
+]
+
+# read docs into strings
+docs = [open(doc).read() for doc in docs]
+# split every doc into a list of lines
+docs = [doc.split("\n") for doc in docs]
+# flatten docs
+doc_lines = [line for doc in docs for line in doc]
+
+#
+# GENERATE GOLD PLOTS
+#
+gold_dates = utils.extract_plot_dates('gold_', doc_lines)
+utils.generate_gold_plots(gold_dates, delta=pd.Timedelta('365 days'))
+
+#
+# GENERATE INVERSE 10Y TREASURY PLOTS
+#
+
+inverse_10y_treasury_dates = utils.extract_plot_dates('inverse_10y_yield_', doc_lines)
+utils.generate_inverse_10y_treasury_plots(inverse_10y_treasury_dates, delta=pd.Timedelta('365 days'))
+
+#
+# GENERATE DXY PLOTS
+#
+
+dxy_dates = utils.extract_plot_dates('dxy_', doc_lines)
+utils.generate_dxy_plots(dxy_dates, delta=pd.Timedelta('365 days'))
+
+
+#
+# LEGACY
+#
 
 # %% CREATE PRICE PLOTS
 
@@ -104,43 +146,43 @@ for conf in price_conf:
 
 # %% GET DXY PLOTS
 
-# load DXY data
-dxy = yf.download("DX-Y.NYB", start="1980-01-01")
-# set dxy index type to date
-dxy.index = dxy.index.date
-dates = [
-    '2000-10-20',
-    '2000-10-31',
-    '2001-01-02'
-]
+# # load DXY data
+# dxy = yf.download("DX-Y.NYB", start="1980-01-01")
+# # set dxy index type to date
+# dxy.index = dxy.index.date
+# dates = [
+#     '2000-10-20',
+#     '2000-10-31',
+#     '2001-01-02'
+# ]
 
-for dt in dates:
-    # make date from string
-    dt = datetime.datetime.strptime(dt, '%Y-%m-%d').date()
-    dt_start = dt - datetime.timedelta(days=365)
-    dt_end = dt + datetime.timedelta(days=365)
-    # get dxy data from dt - 1 year to dt + 1 year
-    dxy_dt = dxy[(dxy.index >= dt_start) & (dxy.index <= dt_end)]
-    # plot dxy
-    plt.figure(figsize=(5,3))
-    plt.plot(
-        dxy_dt["Close"],
-        color='lightgray'
-    )
-    plt.plot(
-        dxy_dt[dxy_dt.index <= dt]["Close"],
-        color='k'
-    )
-    plt.xticks(rotation=45)
-    # set x-axis to date format
-    plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('\'%y-%m'))
-    # title
-    plt.title("DXY")
-    plt.tight_layout()
-    # save plot to file
-    plt.savefig(f"plots/dxy_{dt}.svg", format="svg")
-    # close figure
-    plt.close()
+# for dt in dates:
+#     # make date from string
+#     dt = datetime.datetime.strptime(dt, '%Y-%m-%d').date()
+#     dt_start = dt - datetime.timedelta(days=365)
+#     dt_end = dt + datetime.timedelta(days=365)
+#     # get dxy data from dt - 1 year to dt + 1 year
+#     dxy_dt = dxy[(dxy.index >= dt_start) & (dxy.index <= dt_end)]
+#     # plot dxy
+#     plt.figure(figsize=(5,3))
+#     plt.plot(
+#         dxy_dt["Close"],
+#         color='lightgray'
+#     )
+#     plt.plot(
+#         dxy_dt[dxy_dt.index <= dt]["Close"],
+#         color='k'
+#     )
+#     plt.xticks(rotation=45)
+#     # set x-axis to date format
+#     plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('\'%y-%m'))
+#     # title
+#     plt.title("DXY")
+#     plt.tight_layout()
+#     # save plot to file
+#     plt.savefig(f"plots/dxy_{dt}.svg", format="svg")
+#     # close figure
+#     plt.close()
 
             
 # %% GET OIL PRICES
@@ -391,23 +433,3 @@ for midpoint in midpoints:
     plt.close()
  
 
-#
-# Create Gold plots
-#
-
-docs = [
-    'GFC.md'
-]
-
-# read docs into strings
-docs = [open(doc).read() for doc in docs]
-# split every doc into a list of lines
-docs = [doc.split("\n") for doc in docs]
-# flatten docs
-doc_lines = [line for doc in docs for line in doc]
-
-#
-# GENERATE GOLD PLOTS
-#
-gold_dates = utils.extract_plot_dates('gold_', doc_lines)
-utils.generate_gold_plots(gold_dates, delta=pd.Timedelta('365 days'))
