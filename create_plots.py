@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import yfinance as yf
 import datetime
+import utils
 
 plt.rcParams['lines.linewidth'] = 1
 
@@ -389,3 +390,24 @@ for midpoint in midpoints:
     plt.savefig(f"plots/eurusd_{midpoint}.svg", format="svg")
     plt.close()
  
+
+#
+# Create Gold plots
+#
+
+docs = [
+    'GFC.md'
+]
+
+# read docs into strings
+docs = [open(doc).read() for doc in docs]
+# split every doc into a list of lines
+docs = [doc.split("\n") for doc in docs]
+# flatten docs
+doc_lines = [line for doc in docs for line in doc]
+
+#
+# GENERATE GOLD PLOTS
+#
+gold_dates = utils.extract_plot_dates('gold_', doc_lines)
+utils.generate_gold_plots(gold_dates, delta=pd.Timedelta('365 days'))

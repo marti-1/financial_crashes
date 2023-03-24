@@ -73,9 +73,27 @@ TODO: add unemployment stats
 
 ![](./plots/tnx_2008-09-04.svg)
 
+# 2008-09-16
+
+
+![](./plots/sp500_2008-09-16.svg)
+![](./plots/gold_2008-09-16.svg)
+
+## [Stocks rise on Fed](https://money.cnn.com/2008/09/16/markets/markets_newyork/index.htm)
+### Investors breathe a sigh of relief that the central bank's outlook was not more bearish. After the close, AIG plummets.
+
+> Following the reports, AIG issued a statement saying that its life insurance, general insurance and retirement services businesses are operating normally. The insurer reiterated that it continues to look for means of raising capital to address what it says are short-term liquidity issues.
+
+> **Fed holds steady**: The central bank held the fed funds rate, a key overnight bank lending rate, steady and continued to acknowledge the weak economy and uncertain outlook in its statement. Despite the recent plunge in oil prices, the Fed also continued to talk about the uncertain inflation outlook.
+
+> "I think they are trying to show people that the economy is not in greater danger because of what happens to a few firms on Wall Street," said Stephen Stanley, chief economist at RBS Greenwich Capital. 
+
+> Ahead of the meeting, the New York Federal Reserve said it would pump an additional $50 billion into the banking system to keep the liquidity flowing on top of the already scheduled $20 billion. The New York Fed enacts the central bank's market operation.
+
 # 2008-09-18
 
 ![](./plots/sp500_2008-09-18.svg)
+![](./plots/gold_2008-09-18.svg)
 
 
 ## [Wild rally at the finish](https://money.cnn.com/2008/09/18/markets/markets_newyork/index.htm)
@@ -99,9 +117,10 @@ TODO: add unemployment stats
 
 > Earlier, the Labor Dept. said jobless claims rose to 455,000 last week from 445,000 the previous week. Economists thought the number of Americans filing new claims for unemployment would drop to 440,000.
 
-# 2008-09-18
+# 2008-09-19
 
 ![](./plots/sp500_2008-09-19.svg)
+![](./plots/gold_2008-09-19.svg)
 
 
 ## [Stocks surge as Feds act](https://money.cnn.com/2008/09/19/markets/markets_newyork2/index.htm)
@@ -127,6 +146,7 @@ TODO: add unemployment stats
 
 
 ![](./plots/sp500_2008-09-29.svg)
+![](./plots/gold_2008-09-29.svg)
 
 
 ## [Stocks crushed](https://money.cnn.com/2008/09/29/markets/markets_newyork/index.htm)
@@ -154,4 +174,43 @@ TODO: add unemployment stats
 
 > The Chicago PMI, a key manufacturing report, fell to 56.7 in September from 57.9 in the prior month. However, the decline was smaller than economists were expecting. Any reading over 50 suggests growth.
 
-? The September consumer confidence index topped forecasts, the Conference Board reported. It climbed to 59.8 from a revised 58.5 in August, surprising economists who thought it would fall to 55.
+> The September consumer confidence index topped forecasts, the Conference Board reported. It climbed to 59.8 from a revised 58.5 in August, surprising economists who thought it would fall to 55.
+
+# 2008-10-06
+
+![](./plots/sp500_2008-10-06.svg)
+![](./plots/gold_2008-10-06.svg)
+
+## [Tough day for stocks](https://money.cnn.com/2008/10/06/markets/markets_newyork/index.htm)
+
+### But losses are pared in half after Dow drop reaches 800 points on credit crisis.
+
+> NEW YORK (CNNMoney.com) -- Stocks plunged Monday, with the Dow down as much as 800 points during the session, as the $700 billion bank bailout plan and European government attempts to prop up faltering banks failed to comfort panicky investors.
+
+> Treasurys rallied, lowering the corresponding yields as investors sought safety in government debt. Gold rallied for the same reason. Oil dipped. The dollar jumped versus the euro and fell against the yen.
+
+> Investors across the board are realizing that the $700 billion U.S. bank bailout was not a cure-all, said Dan Genter, president and CEO at RNC Genter Capital Management. The package involves the Treasury buying bad debt directly from banks in order to get them to start lending to each other again
+
+> "Everybody thought that the bailout was a panacea. But it's not, it's a tourniquet that stops the bleeding so the patient doesn't die right away," Genter said.
+
+> "It looks like panic capitulation, but there's no telling how long it will last," Halliburton said. "The concern is that we will roll into a very severe recession or even a depression." 
+
+# 2008-10-09
+
+![](./plots/sp500_2008-10-09.svg)
+![](./plots/gold_2008-10-09.svg)
+
+## [Dow tumbles 7%](https://money.cnn.com/2008/10/09/markets/markets_newyork/index.htm)
+### Dow falls below 8,600 for first time since 2003 - on the 1-year anniversary of its all-time high.
+
+> NEW YORK (CNNMoney.com) -- Markets tanked Thursday - with the Dow falling nearly 700 points during the session - as panicked investors dumped stocks across the board.
+
+> "We are in a free fall right now and fundamentals have been thrown out the window," said Phil Orlando, chief equity market strategist at Federated Investors. 
+
+> Stocks have tumbled despite a series of efforts on the part of the government to unfreeze the credit markets and get money flowing through the system again. 
+
+> "[Third quarter] earnings will still be poor, [third-quarter] GDP will be a disaster," he said. "Investors are trying to price in the depth of the recession now."
+
+> One year ago today, the S&P 500 hit an all-time high of 1565.15. As of Thursday's close, it was down 41.9%.
+
+> In an effort to get money moving again, the government has taken a number of dramatic steps, including announcing an emergency interest-rate cut Wednesday, coordinated with banks around the world.
